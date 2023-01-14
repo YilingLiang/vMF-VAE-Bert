@@ -11,6 +11,12 @@ transformers=4.9.1
 nltk=3.6.6
 ```
 
+To get the generative model, in `gen_model`:
+
+```shell
+python main_qqp_snli.py
+```
+
 Generate adversarial examples: 
 
 ```shell
