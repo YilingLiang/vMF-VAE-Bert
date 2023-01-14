@@ -1,0 +1,1 @@
+nohup python bert_adv_qqp.py --data_path ./data --radius 2.0 --classifier_path ./ --datatype 1 --advmode tail --voc_file ./vocab.json >> ./gen_bert_qqp_tail2.log 2>&1 &

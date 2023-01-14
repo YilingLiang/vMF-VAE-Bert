@@ -1,0 +1,1 @@
+nohup python generate_adv_snli_.py --data_path ./data  --classifier_path ./ --datatype 0 --advmode tail --voc_file ./vocab.json >> ./gen_snli_tail.log 2>&1 &

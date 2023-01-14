@@ -1,0 +1,1 @@
+nohup python generate_adv_snliqqp.py --data_path ./data --radius 1.0 --classifier_path ./ --datatype 1 --advmode tail --modelmode cnn --voc_file ./vocab.json >> ./gen_qqp_tail_cnn.log 2>&1 &

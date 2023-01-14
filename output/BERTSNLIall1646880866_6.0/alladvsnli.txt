@@ -1,0 +1,2797 @@
+
+================Premise==================
+a person wearing a straw hat , standing outside working a steel apparatus with a pile of coconuts on the ground .
+===========Original Hypothesis===========
+a person is burning a straw hat .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a person dressed in a dress with flowers and a stuffed bee attached to it , is pushing a baby stroller down the street .
+===========Original Hypothesis===========
+a lady sitting on a bench in the park .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two children , both wearing tan coats , are embracing one another .
+===========Original Hypothesis===========
+two kids are running down a highway .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man wearing a red uniform and helmet stands on his motorbike .
+===========Original Hypothesis===========
+a man sitting in a car .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+six or seven people are standing on a pier with a table and a pair of glasses in the foreground .
+===========Original Hypothesis===========
+they are in a boat .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+six or seven people are standing on a pier with a table and a pair of glasses in the foreground .	they are looking for a boat.	2
+
+================Premise==================
+the girl wearing a brown jacket whilst walking in snow .
+===========Original Hypothesis===========
+a woman is eating pasta in a restaurant .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a guy wearing jeans and a hat is crouching on a handrail with a concrete embankment located in front of him .
+===========Original Hypothesis===========
+his bald head is exposed .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in an alaska sweatshirt stands behind a counter .
+===========Original Hypothesis===========
+the man is wearing a tank top .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a golden dog passes a blue ball to another golden dog on the beach .
+===========Original Hypothesis===========
+the dogs are refusing to share .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a middle eastern marketplace .
+===========Original Hypothesis===========
+an american theater .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+these girls are having a great time looking for seashells .
+===========Original Hypothesis===========
+the girls are taking a nap .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+some dogs are running on a deserted beach .
+===========Original Hypothesis===========
+there is only one dog at the beach .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a blond woman speaks with a group of young dark-haired female students carrying pieces of paper .
+===========Original Hypothesis===========
+a man hits on a woman .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the man in the black t-shirt is trying to throw something .
+===========Original Hypothesis===========
+the man is walking away .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a white duck expanding its wings in the water .
+===========Original Hypothesis===========
+the duck sleeps soundly , floating on top of the water
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a naked man rides a bike .
+===========Original Hypothesis===========
+a man in a suit walking on a sidewalk .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a child is sticking her head out of the 0095 taxi cab and screaming .
+===========Original Hypothesis===========
+a child is at home , resting .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+violin soloists take the stage during the orchestra 's opening show at the theater .
+===========Original Hypothesis===========
+people are playing the harmonica while standing on a roof .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a worker peers out from atop a building under construction .
+===========Original Hypothesis===========
+the unemployed person is near a building .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a golfer is getting ready to putt on the green , with a crowd of people watching in the background .
+===========Original Hypothesis===========
+the golfer retired from play today .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a boy in a green shirt on a skateboard on a stone wall with graffiti
+===========Original Hypothesis===========
+a boy in a green shirt rollerblading through the tunnel .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is working on a earthen structure with a pickaxe .
+===========Original Hypothesis===========
+the man is in an office building .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman in a white hijab digs into the ground .
+===========Original Hypothesis===========
+the pigs eat dogs
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three children hold a boy 's arms down while another boy in a hat shoots a water gun at him .
+===========Original Hypothesis===========
+the three girls hold the boy down while his girlfriend shoots water at him .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is walking past a large sign that says e.s.e. electronics .
+===========Original Hypothesis===========
+a man is running past the sign .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a mask in the back of a service vehicle .
+===========Original Hypothesis===========
+a woman is showing her head while riding on a horse
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two guys walking , one carrying a skateboard
+===========Original Hypothesis===========
+the men are carrying bicycles .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a girl jumps in the air .
+===========Original Hypothesis===========
+a girl jumping rope on mars .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+man and women standing under a red umbrella .
+===========Original Hypothesis===========
+the two woman stood under the black umbrella .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the firemen and women wearing blue gloves have finished working on a person who is lying on ground bandaged and draped in a blue blanket .
+===========Original Hypothesis===========
+the firefighters are setting a fire .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+the firemen and women wearing blue gloves have finished working on a person who is lying on ground bandaged and draped in a blue blanket .	the firefighters are working at a fire.	2
+the firemen and women wearing blue gloves have finished working on a person who is lying on ground bandaged and draped in a blue blanket .	the firefighters are waiting for a fire to start.	2
+the firemen and women wearing blue gloves have finished working on a person who is lying on ground bandaged and draped in a blue blanket .	the firefighters are waiting for a fire.	2
+the firemen and women wearing blue gloves have finished working on a person who is lying on ground bandaged and draped in a blue blanket .	the firefighters are working for a fire.	2
+
+================Premise==================
+a man in a white and gray shirt looks on as a shirtless man with a mustache cleans fish on a pale green table .
+===========Original Hypothesis===========
+the man in an orange shirt watches another man wash dishes .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a white dog is running through the water at a beach
+===========Original Hypothesis===========
+the white dog is sitting on the sand .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+a white dog is running through the water at a beach	the white dog is in the sand.	2
+
+================Premise==================
+a long dark-haired man sitting on the grass with a guitar in his lap in front of a blue sky .
+===========Original Hypothesis===========
+a man with short hair dancing outside while playing the flute .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman in a scarf , laughing , being licked by a dog .
+===========Original Hypothesis===========
+a woman is scratched by a cat
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a lady wearing a straw hat and gold hoop earrings is pointing a finger .
+===========Original Hypothesis===========
+a kid on a bike .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man surfs on a medium sized wave while holding a paddle that seems to steer him in the direction he wants to go .
+===========Original Hypothesis===========
+a man milks a cow
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a middle-aged man chef is in a white doorway of a mobile kitchen .
+===========Original Hypothesis===========
+a chef has been fired and sits at home with a handle of whiskey .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+elderly people walking down a city street .
+===========Original Hypothesis===========
+the elderly people are swimming in the pool .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young boy runs across a road in front of a sky blue building with barred windows .
+===========Original Hypothesis===========
+a boy sleeps in his bed .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a child stands in a shower with clothes on .
+===========Original Hypothesis===========
+a child is naked in the shower
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the man in the black shirt is showing the man in the orange shirt something that he has for sale .
+===========Original Hypothesis===========
+a man is being served a dish in a restaurant .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a worker is doing a job on scaffolding .
+===========Original Hypothesis===========
+nobody is working
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+six men in tuxedos stand next to a black metal fence outside the back doors of a marble building .
+===========Original Hypothesis===========
+2 women are talking
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three women talk to each other next to another woman sitting on a motorcycle .
+===========Original Hypothesis===========
+a group of men are indoors watching football while it snows outside .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young man in a straw hat , jeans , and a plaid shirt sweeps dust from stone steps in front of a stone building .
+===========Original Hypothesis===========
+a dog runs far
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men are standing in a freshly razed field at the boundary of a forest , while a bulldozer sits idling nearby .
+===========Original Hypothesis===========
+the two men are back at the office .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is riding a bicycle in the street .
+===========Original Hypothesis===========
+a man is suntanning on a cave
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+she is standing outside a building .
+===========Original Hypothesis===========
+a woman is sitting at her desk .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a little boy playing outside on the cement .
+===========Original Hypothesis===========
+a boy is doing homework .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a female marathon runner wearing a red headband , a red tank top and black shorts jogging down a paved road .
+===========Original Hypothesis===========
+two women arm wrestle in a bar
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men at a table having drinks .
+===========Original Hypothesis===========
+two women are talking .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a colorful shirt and a lady in a white blouse sign copies of books for people .
+===========Original Hypothesis===========
+a man in a colorful shirt and a lady in a white blouse give candy to people .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a boy plays his trumpet during a performance with his band .
+===========Original Hypothesis===========
+nobody has a trumpet
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a khaki jacket and ball cap walks down the street .
+===========Original Hypothesis===========
+the man is running down the street .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman in a red jacket and sunglasses smiles at the camera while another woman unloads skis from a vehicle .
+===========Original Hypothesis===========
+a woman in a red jacket and sunglasses eats the camera
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a crowd of people in a stadium decked out in white , yellow and green cheer and clap for the team below .
+===========Original Hypothesis===========
+the crowd is on planet mars
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a snowboarder is grinding down a long concrete rail .
+===========Original Hypothesis===========
+the snowboarder is sitting in a jacuzzi .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman with a black and white dress on is carrying a green plastic laundry basket in front of an apartment building .
+===========Original Hypothesis===========
+the woman is wearing a bathing suit .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a child is surrounded by a field of sunflowers .
+===========Original Hypothesis===========
+an old person in a field of poppies .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+man sits at the doorway of barber shop .
+===========Original Hypothesis===========
+the man is standing in the roof
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+very young boy is standing outside near a water fountain that is built into the ground and is squirting water .
+===========Original Hypothesis===========
+the young boy is standing inside .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+very young boy is standing outside near a water fountain that is built into the ground and is squirting water .	the little boy is standing.	2
+
+================Premise==================
+a blond woman is looking at a camera that a brunette woman is holding in front of a wall with several pieces of art on it .
+===========Original Hypothesis===========
+a blond woman is holding a camera and looking at a wall with several pieces of sharks on it .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man draws a caricature of a woman .
+===========Original Hypothesis===========
+a man painting a car .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young child plays on a beach next to an empty chair .
+===========Original Hypothesis===========
+a young child is swinging on a swing set at his local city park .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+asian women selling fruits from baskets at an outdoor market
+===========Original Hypothesis===========
+black women on the beach
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man , wearing a cap , is pushing a cart , on which large display boards are kept , on a road .
+===========Original Hypothesis===========
+a man is buying a lottery ticket .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+a man , wearing a cap , is pushing a cart , on which large display boards are kept , on a road .	a man is advertising the lottery ticket.	2
+
+================Premise==================
+a person in a large pink triangle-shaped costume waves as a man and a woman dressed in matching brightly-colored striped and polka-dotted outfits smile back .
+===========Original Hypothesis===========
+the person is alone in the middle of the ocean .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a guy in a blue shirt chases a guy in an orange shirt during a game of flag football .
+===========Original Hypothesis===========
+two people are enjoying ice cream .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three young men wearing backpacks , shorts , t-shirts , sandals and hats are standing together on a sandy surface with palm trees in the distance .
+===========Original Hypothesis===========
+three guys are sitting at a picnic table the beach while admiring the sunny day .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+there are 5 people on a stage without their face showing behind a red curtain
+===========Original Hypothesis===========
+a man is standing by himself , playing guitar on the sidewalk .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+bubbles surround a statue in the middle of a street .
+===========Original Hypothesis===========
+the statue was standing in the garage .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a dog is running in the waves at the beach .
+===========Original Hypothesis===========
+the pet is laying on the couch .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+a dog is running in the waves at the beach .	the pet is not sitting on the couch.	2
+
+================Premise==================
+a group of women playing volleyball indoors .
+===========Original Hypothesis===========
+people are outside tossing a ball .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in gray and black is playing a black acoustic guitar with a slightly shorter woman who is wearing pink and playing a violin .
+===========Original Hypothesis===========
+a cow chews grass
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+little girl posing for a picture .
+===========Original Hypothesis===========
+the boy is posing for a picture .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+little girl posing for a picture .	the child is posing for a photo.	2
+
+================Premise==================
+a group of people are looking at photographs on a wall and speaking to each other .
+===========Original Hypothesis===========
+a group of people are playing baseball .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a green shirt and large beige hat is supervising a newsstand that sells snacks and drinks .
+===========Original Hypothesis===========
+the woman is white
+===========Original Label===========
+contradiction
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+nurses in a medical setting conversing over a plastic cup .
+===========Original Hypothesis===========
+the nurses are eating lunch .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+asian men sitting down , and some of them are wearing white and pink hats , while the others are wearing blue jackets with yellow sashes .
+===========Original Hypothesis===========
+asian women are sitting in a restaurant .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+asian men sitting down , and some of them are wearing white and pink hats , while the others are wearing blue jackets with yellow sashes .	asian people are sitting in a restaurant.	2
+
+================Premise==================
+a man in a pink shirt and white vest plays a guitar .
+===========Original Hypothesis===========
+there is a man in a green shirt .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+a man in a pink shirt and white vest plays a guitar .	there is a man in front of a green.	2
+
+================Premise==================
+a lady is walking out of a short tunnel as a male prepares to enter it from the opposite side .
+===========Original Hypothesis===========
+everybody is sitting
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man with his finger in his mouth is standing outside of an rv .
+===========Original Hypothesis===========
+the man is inside his rv .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man touching a hanging strand of lamps .
+===========Original Hypothesis===========
+a man has his hands shoved into his coat pockets .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of people , one of which is a woman with a large white and colorful purse , wait to board a large white and blue bus .
+===========Original Hypothesis===========
+a dog is driving the bus .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two person are walking on the streets .
+===========Original Hypothesis===========
+the two people re sitting inside .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men have an after dinner discussion at the dinner table .
+===========Original Hypothesis===========
+the men are asleep in the motel
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a guy in a yellow shirt performs a balancing act on a taught chain near a canal .
+===========Original Hypothesis===========
+a boy is watching a movie in his living room .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young teenage boy in a blue and white striped coat gives a weak smile while walking with four other girls .
+===========Original Hypothesis===========
+the boy is flying a plane
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman in a low cut blue shirt is in a crowded room that looks smokey .
+===========Original Hypothesis===========
+someone is in a field .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young boy vocalizes in to a microphone held by a blond woman in black .
+===========Original Hypothesis===========
+two girls playing the drums .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a lone snowboarder jumping in midair with a snow covered mine in the background
+===========Original Hypothesis===========
+a person is snowboarding behind a football field
+===========Original Label===========
+contradiction
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+an old black man sitting on a couple of grocery crates playing the string guitar during the day .
+===========Original Hypothesis===========
+every instrument visible is a woodwind .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of people in red clothing with scooters ride down the hill on rollerblades .
+===========Original Hypothesis===========
+everyone is wearing green clothing .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a girl is about to hit a tennis ball coming from above her with a racket
+===========Original Hypothesis===========
+the girl is swimming .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young girl poses with a trophy in the park .
+===========Original Hypothesis===========
+a boy poses with his trophy .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+men in an office with computers and a projector screen .
+===========Original Hypothesis===========
+the men are at the gym .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a lady is promoting something to the other two girls .
+===========Original Hypothesis===========
+a man is boasting about something at a bar .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young woman with red-hair is adjusting a blue bracelet on an older woman with short hair .
+===========Original Hypothesis===========
+two women are making pancakes .
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+asian people about to perform animal balloons .
+===========Original Hypothesis===========
+dog looks at the pond
+===========Original Label===========
+contradiction
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+four people enjoying an art exhibit .
+===========Original Hypothesis===========
+fours people are looking at art
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young woman wearing jeans , a white t-shirt and a hat , performs a high flying trick on a bicycle at an outdoor bike park .
+===========Original Hypothesis===========
+young woman performing bike tricks at a bike park .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a boy dressed in a dark shirt carries a blue bag over his shoulder and a green pail .
+===========Original Hypothesis===========
+a boy is carrying something on his shoulder .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a red shirt is being filmed by another man on a sports field with a huge audience of people watching and cheering .
+===========Original Hypothesis===========
+the man is being filmed by another man .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two daschunds play with a red ball
+===========Original Hypothesis===========
+two dogs playing together .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+woman in dark shirt standing alone in front of a yellow car .
+===========Original Hypothesis===========
+she is outside .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+woman in dark shirt standing alone in front of a yellow car .	he is outside.	0
+woman in dark shirt standing alone in front of a yellow car .	she is outside at the park.	0
+
+================Premise==================
+a group of attentive students are paying attention to a college lecture .
+===========Original Hypothesis===========
+a group of students are listening .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a group of attentive students are paying attention to a college lecture .	a group of students are listening to music.	0
+a group of attentive students are paying attention to a college lecture .	a group of students are listening to sound.	0
+a group of attentive students are paying attention to a college lecture .	a group of students are listening to music.	0
+a group of attentive students are paying attention to a college lecture .	a group of students are listening to the choir.	0
+
+================Premise==================
+children play on a sidewalk with dolls and chalk .
+===========Original Hypothesis===========
+kids playing outside
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+children play on a sidewalk with dolls and chalk .	three kids playing outside	0
+
+================Premise==================
+a man in tribal dress is walking down the street while spectators are standing behind red and white barrier tape .
+===========Original Hypothesis===========
+a man walks down the street with other people around
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a little boy with blond-hair stares down at display case featuring cookies and cakes .
+===========Original Hypothesis===========
+a boy is looking at pastries .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+man in blue shirt sitting on the side of the road with a wheelbarrow of vegetables
+===========Original Hypothesis===========
+a man sitting next to a wheelbarrow full of produce .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+man in blue shirt sitting on the side of the road with a wheelbarrow of vegetables	a man sits next to a wheelbarrow full of fruit.	0
+
+================Premise==================
+a woman in jeans and a woman in shorts are petting a baby kangaroo .
+===========Original Hypothesis===========
+two woman are petting a animal .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a boy wearing jeans , standing on rocks in a river and throwing a stone .
+===========Original Hypothesis===========
+a boy throwing a stone .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the small child is sitting in a red playground swing .
+===========Original Hypothesis===========
+the child is in a playground .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+the small child is sitting in a red playground swing .	the child is in a park.	0
+the small child is sitting in a red playground swing .	the child is in a forest playground.	0
+the small child is sitting in a red playground swing .	the two children are in a playground.	0
+
+================Premise==================
+person with umbrella observes flooded streets with cars in the water .
+===========Original Hypothesis===========
+a person is outside .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+person with umbrella observes flooded streets with cars in the water .	a person is outside doing a field.	0
+person with umbrella observes flooded streets with cars in the water .	a kid is outside.	0
+person with umbrella observes flooded streets with cars in the water .	a couple is outside.	0
+
+================Premise==================
+a woman in a green flowered dress is holding a container of yarn animals .
+===========Original Hypothesis===========
+a lady in a dress has a container of yarn toys .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a person in a black and green outfit is riding a bicycle .
+===========Original Hypothesis===========
+a colorfully dressed child rides a bike
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+three people are walking on a beach .
+===========Original Hypothesis===========
+a few people are near the ocean
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a blond woman sits on a park bench while wearing a brown tank top and olive green shorts .
+===========Original Hypothesis===========
+a blonde woman sits on a bench outside in a park .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a blond woman sits on a park bench while wearing a brown tank top and olive green shorts .	a blonde woman talks on a bench at a park.	0
+a blond woman sits on a park bench while wearing a brown tank top and olive green shorts .	a blonde woman sits on a bench in a scenic park.	0
+
+================Premise==================
+a man in a blue jogging suit is running on the sidewalk in front of a painting .
+===========Original Hypothesis===========
+a man is outside on the streets .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a man in a blue jogging suit is running on the sidewalk in front of a painting .	a man is outside on the streets of a city.	0
+
+================Premise==================
+a dark-skinned person , crouched while painting a sign .
+===========Original Hypothesis===========
+a person is painting .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a dark-skinned person , crouched while painting a sign .	a lady is painting.	0
+a dark-skinned person , crouched while painting a sign .	a man is painting.	0
+a dark-skinned person , crouched while painting a sign .	a person is painting a wall.	0
+a dark-skinned person , crouched while painting a sign .	a man is painting.	0
+a dark-skinned person , crouched while painting a sign .	a man is painting.	0
+a dark-skinned person , crouched while painting a sign .	a man is painting.	0
+a dark-skinned person , crouched while painting a sign .	a woman is painting.	0
+a dark-skinned person , crouched while painting a sign .	a man is painting.	0
+a dark-skinned person , crouched while painting a sign .	a person is painting on the wall.	0
+a dark-skinned person , crouched while painting a sign .	a man is painting.	0
+a dark-skinned person , crouched while painting a sign .	a person is painting on the wall.	0
+
+================Premise==================
+a woman wearing white and black carries a serving tray .
+===========Original Hypothesis===========
+a woman is carrying a serving tray .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a woman wearing white and black carries a serving tray .	a woman is serving a tray.	0
+
+================Premise==================
+a man with a beard is talking on the cellphone and standing next to someone who is lying down on the street .
+===========Original Hypothesis===========
+a man is prone on the street while another man stands next to him .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a rocker standing with one foot on the stage holding the microphone attached to the stand over his head .
+===========Original Hypothesis===========
+a microphone is near the stage .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man holding a briefcase on a subway .
+===========Original Hypothesis===========
+a man holds a briefcase .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a man holding a briefcase on a subway .	a man holds a briefcase sign.	0
+
+================Premise==================
+a young girl wearing a blue ski cap and red and gray two tone jacket stands between two bits of ice .
+===========Original Hypothesis===========
+a girl is standing in a winter landscape .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a man , boy and a white dog are looking at a display of postcards .
+===========Original Hypothesis===========
+a man with a boy and their white dog are looking at postcards .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+man walking a small pug .
+===========Original Hypothesis===========
+a man is near a dog .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+man walking a small pug .	a man is watching a dog.	0
+man walking a small pug .	a girl is near a dog.	0
+man walking a small pug .	the man is holding a dog.	0
+man walking a small pug .	a man is playing with a dog.	0
+man walking a small pug .	a man is near a wet dog.	0
+
+================Premise==================
+a man wearing a blue lab coat , safety glasses , and gloves is working at a small machine with a large computer screen .
+===========Original Hypothesis===========
+a man is wearing a coat .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a man wearing a blue lab coat , safety glasses , and gloves is working at a small machine with a large computer screen .	a man is wearing an animal coat.	0
+a man wearing a blue lab coat , safety glasses , and gloves is working at a small machine with a large computer screen .	a man is wearing a winter coat.	0
+a man wearing a blue lab coat , safety glasses , and gloves is working at a small machine with a large computer screen .	a boy is wearing a coat.	0
+a man wearing a blue lab coat , safety glasses , and gloves is working at a small machine with a large computer screen .	a man is wearing a fur coat.	0
+
+================Premise==================
+several bicyclers are carrying their bikes up a grassy hill .
+===========Original Hypothesis===========
+people carrying bikes .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a player on the red soccer team has just scored a goal while the opposing team watches the ball go in .
+===========Original Hypothesis===========
+a soccer player scored a goal .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a player on the red soccer team has just scored a goal while the opposing team watches the ball go in .	a soccer player juggles a game winning goal.	0
+a player on the red soccer team has just scored a goal while the opposing team watches the ball go in .	a soccer player was sliding down a goal.	0
+
+================Premise==================
+a fireman searching for something using a flashlight .
+===========Original Hypothesis===========
+an area is lit up by flashlight .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+an older gentleman looks at the camera while he is building a deck .
+===========Original Hypothesis===========
+a human looks at the camera while building something .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger .
+===========Original Hypothesis===========
+a man argues with another who is raising his fist
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three men in hats and a woman in a red shirt examine the produce presented to them by the man in the blue shirt and white hat .
+===========Original Hypothesis===========
+three men adn a woman look at produce
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the man is performing a trick on a motorcycle high in the air .
+===========Original Hypothesis===========
+a man is performing a trick on a bike .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a brunette woman holding a little girl dressed in pink is kneeling next to a grazing white and brown llama in the foreground of a hilly community .
+===========Original Hypothesis===========
+a woman holds a little girl .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a brunette woman holding a little girl dressed in pink is kneeling next to a grazing white and brown llama in the foreground of a hilly community .	a mother holds a little girl.	0
+
+================Premise==================
+these people are in uniform at a lacrosse type game .
+===========Original Hypothesis===========
+there are people at a lacrosse game .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a person stands between two giant statues that look like faces .
+===========Original Hypothesis===========
+a human is standing between two large objects .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+this woman is setting out a vegetable collection for sale in the market .
+===========Original Hypothesis===========
+a woman in her vegetable market .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a soccer team is standing on the field waiting for their time to make a move .
+===========Original Hypothesis===========
+people are playing sports outside .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in orange and a man in a light blue top are walking down the street towards something .
+===========Original Hypothesis===========
+two mean are wearing clothes and walking
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the man is wearing an orange and black polo shirt and is kneeling with his lunch box in one hand while holding a banana in his other hand .
+===========Original Hypothesis===========
+a man is holding a banana .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+the man is wearing an orange and black polo shirt and is kneeling with his lunch box in one hand while holding a banana in his other hand .	a woman is holding a banana.	0
+
+================Premise==================
+a dog with a purple leash is held by a woman wearing white shoes .
+===========Original Hypothesis===========
+a woman is holding a leash on her dog .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a dog with a purple leash is held by a woman wearing white shoes .	a woman is holding up a dog on the leash.	0
+a dog with a purple leash is held by a woman wearing white shoes .	a woman rides a dog on a leash outside.	0
+
+================Premise==================
+a white-clad soccer player is attempting to intercept a soccer ball that is quickly approaching the goal box .
+===========Original Hypothesis===========
+a soccer player tries to get an interception .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a white-clad soccer player is attempting to intercept a soccer ball that is quickly approaching the goal box .	a soccer player is trying to score a touchdown.	0
+
+================Premise==================
+a woman in a black top and blue skirt is pushing a carriage or cart down a long empty tree-lined road .
+===========Original Hypothesis===========
+a woman is outdoors
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+five young blond and light brown-haired girls are sitting on the ground reading books together .
+===========Original Hypothesis===========
+a group of kids reading
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a canoe in the distance on a lake as seen from another canoe .
+===========Original Hypothesis===========
+a boat is in the water .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a canoe in the distance on a lake as seen from another canoe .	a boat is in the winter	0
+a canoe in the distance on a lake as seen from another canoe .	a boat is swimming in the water.	0
+a canoe in the distance on a lake as seen from another canoe .	a boat is in the ocean	0
+a canoe in the distance on a lake as seen from another canoe .	a boat is in the mud.	0
+
+================Premise==================
+three men in yellow green safety vests sit on a bench yawning , smoking and having a break .
+===========Original Hypothesis===========
+there are people seated .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+three men in yellow green safety vests sit on a bench yawning , smoking and having a break .	there are two people seated.	0
+three men in yellow green safety vests sit on a bench yawning , smoking and having a break .	there are people seated at a table.	0
+three men in yellow green safety vests sit on a bench yawning , smoking and having a break .	there are people seated on the street.	0
+
+================Premise==================
+a five person brass band is seated , semi-circularly , in a white alcove of a church that has stained glass windows .
+===========Original Hypothesis===========
+a band is assembled .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a baby getting a bath in the kitchen sink .
+===========Original Hypothesis===========
+a baby is getting a bath .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a baby getting a bath in the kitchen sink .	a baby is getting a bath in the sun.	0
+
+================Premise==================
+child in blue polos are sitting around a table writing on their notebooks , one is standing up .
+===========Original Hypothesis===========
+children writing in notebooks while one stands next to them .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young boy swings a hula hoop while other children sit on the floor with their hoops .
+===========Original Hypothesis===========
+a young boy swings
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a young boy swings a hula hoop while other children sit on the floor with their hoops .	a young boy is playing on the swings.	0
+a young boy swings a hula hoop while other children sit on the floor with their hoops .	a young boy plays in a swing.	0
+a young boy swings a hula hoop while other children sit on the floor with their hoops .	a young boy swings on the swingset.	0
+
+================Premise==================
+a child floating on a blue raft while a woman holds on to him while a black dog swims nearby .
+===========Original Hypothesis===========
+a person floating
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is holding on to a piece of rope , sitting in an inflatable boat , in front of several other larger boats .
+===========Original Hypothesis===========
+a man sits in a floating raft by some boats .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket .
+===========Original Hypothesis===========
+the woman is near her dog .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket .	the woman is standing near her dog.	0
+a woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket .	the woman is making her dog.	0
+a woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket .	the woman is standing near her dog.	0
+
+================Premise==================
+two men shining peoples shoes .
+===========Original Hypothesis===========
+two men shining shoes .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman in a dress is singing and having a good time .
+===========Original Hypothesis===========
+a woman is singing .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a woman in a dress is singing and having a good time .	a woman is singing to someone.	0
+a woman in a dress is singing and having a good time .	a woman is singing to a girl.	0
+a woman in a dress is singing and having a good time .	a woman is singing with a man.	0
+a woman in a dress is singing and having a good time .	a man is singing.	0
+a woman in a dress is singing and having a good time .	a group of women are singing.	0
+
+================Premise==================
+a young woman wearing jeans and a gray sweater walks across an empty street .
+===========Original Hypothesis===========
+a woman is walking .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a young woman wearing jeans and a gray sweater walks across an empty street .	a man is walking.	0
+a young woman wearing jeans and a gray sweater walks across an empty street .	a woman is walking on a sidewalk.	0
+a young woman wearing jeans and a gray sweater walks across an empty street .	a woman is walking in a crowd.	0
+a young woman wearing jeans and a gray sweater walks across an empty street .	a man is walking.	0
+a young woman wearing jeans and a gray sweater walks across an empty street .	a woman is walking on the sidewalk.	0
+
+================Premise==================
+this child is getting a pedicure .
+===========Original Hypothesis===========
+child getting pedicure .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three young men in a kitchen standing around a stove , one of them is stirring something in a pot .
+===========Original Hypothesis===========
+three people are standing inside a house near each other .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+three young men in a kitchen standing around a stove , one of them is stirring something in a pot .	three people are standing inside in a house in the middle of a street.	0
+
+================Premise==================
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .
+===========Original Hypothesis===========
+a man is wearing a cowboy hat .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .	a boy is wearing a cowboy hat.	0
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .	a man is wearing a cowboy hat and sunglasses.	0
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .	a man wearing a cowboy hat tries to get his hat.	0
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .	a man is wearing a cowboy hat and holding a rope.	0
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .	a man is holding a cowboy.	0
+two casually-dressed men , one in a cowboy hat and one in a baseball cap , make their way through a crowd .	the woman is wearing a cowboy hat.	0
+
+================Premise==================
+person in yellow t-shirt is sleeping .
+===========Original Hypothesis===========
+a person is napping .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+person in yellow t-shirt is sleeping .	a group of people are napping.	0
+person in yellow t-shirt is sleeping .	a woman is napping.	0
+person in yellow t-shirt is sleeping .	a group of people are napping.	0
+person in yellow t-shirt is sleeping .	a person and child are napping.	0
+person in yellow t-shirt is sleeping .	a woman is napping.	0
+
+================Premise==================
+a chef in a kitchen cuts a piece off of a large slab of rotating meat on a stick , probably lamb .
+===========Original Hypothesis===========
+a human being is in a kitchen with meat in front of him .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+people trying to get warm .
+===========Original Hypothesis===========
+people are trying to warm up .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman wearing a beige sweater and black pants talking to man wearing black pants and top
+===========Original Hypothesis===========
+the man and woman who are talking are both wearing black pants .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a white shirt speaks into a microphone as other men gather behind him at a public event .
+===========Original Hypothesis===========
+a man in a white shirt is making a speech in front of a crowd .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a man in a white shirt speaks into a microphone as other men gather behind him at a public event .	a man in a white shirt is making a face in front of a crowd.	0
+a man in a white shirt speaks into a microphone as other men gather behind him at a public event .	a man in a white shirt is watching a crowd of people.	0
+a man in a white shirt speaks into a microphone as other men gather behind him at a public event .	one person in a white shirt and a woman in a white shirt are giving a speech in front of a large crowd of people.	0
+
+================Premise==================
+an asian woman is standing on a path with a basket on her head looking into a mirror she is holding in her hand .
+===========Original Hypothesis===========
+a person standing
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is standing in the doorway of a building .
+===========Original Hypothesis===========
+a man is in a building .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a man is standing in the doorway of a building .	a man is working in a building.	0
+a man is standing in the doorway of a building .	a man is about to enter a building.	0
+a man is standing in the doorway of a building .	a old man is in a building.	0
+a man is standing in the doorway of a building .	a man is holding a building.	0
+a man is standing in the doorway of a building .	a man is looking in a building.	0
+
+================Premise==================
+a bald man is getting out of a small blue car .
+===========Original Hypothesis===========
+the man is bald .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a bald man is getting out of a small blue car .	the young man is bald.	0
+
+================Premise==================
+three little kids on a swing set ; one is upside down , one hanging from the top bar , and on a swing .
+===========Original Hypothesis===========
+three kids on a swing set
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three men are looking forward and laughing .
+===========Original Hypothesis===========
+three men find something funny .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a white t-shirt and jeans is holding a mallet and chisel next to his abstract sculpture which stands on several bricks .
+===========Original Hypothesis===========
+a man is wearing a white shirt
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a man in a white t-shirt and jeans is holding a mallet and chisel next to his abstract sculpture which stands on several bricks .	two men are wearing a white shirt	0
+a man in a white t-shirt and jeans is holding a mallet and chisel next to his abstract sculpture which stands on several bricks .	there is a woman wearing a white shirt	0
+a man in a white t-shirt and jeans is holding a mallet and chisel next to his abstract sculpture which stands on several bricks .	a man is wearing a white tank top	0
+a man in a white t-shirt and jeans is holding a mallet and chisel next to his abstract sculpture which stands on several bricks .	a man wearing a white shirt is at the table	0
+
+================Premise==================
+birds flying above the rolling waves of the ocean .
+===========Original Hypothesis===========
+birds flying above a body of water .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+an older man sleeping in a folding chair on the street .
+===========Original Hypothesis===========
+a man is sleeping outside .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the blue kayak is being ridden over a small waterfall .
+===========Original Hypothesis===========
+a kayak is being ridden .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+an old woman and a young man examine their bingo cards .
+===========Original Hypothesis===========
+an old woman and young man are playing bingo .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+an old woman and a young man examine their bingo cards .	a little boy and old woman are playing bingo.	0
+
+================Premise==================
+a person rides up a narrow street on a bike , past a spray-painted sign of a hand giving the peace sign .
+===========Original Hypothesis===========
+a person riding a bike outside .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a person rides up a narrow street on a bike , past a spray-painted sign of a hand giving the peace sign .	a family rides a bike outside.	0
+a person rides up a narrow street on a bike , past a spray-painted sign of a hand giving the peace sign .	a group of kids riding a a bike outside.	0
+a person rides up a narrow street on a bike , past a spray-painted sign of a hand giving the peace sign .	a person riding a bike outside in the rain.	0
+a person rides up a narrow street on a bike , past a spray-painted sign of a hand giving the peace sign .	a person riding a bike down a hill.	0
+
+================Premise==================
+family sitting down in a field of grass while others walk by .
+===========Original Hypothesis===========
+the family is outside .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+cheerleaders pose for the camera .
+===========Original Hypothesis===========
+the cheerleaders are getting their picture taken .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+cheerleaders pose for the camera .	the cheerleaders are getting their picture taken in the fall.	0
+
+================Premise==================
+city street crowded with sports fans wearing orange .
+===========Original Hypothesis===========
+the sports fans are wearing orange shirts .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+two construction workers climbing the steel ribbed exterior of a new building at their work site .
+===========Original Hypothesis===========
+two workers are climbing a building .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of amish people , men and women , standing at a fence overlooking a forest and river .
+===========Original Hypothesis===========
+several people are standing outside near water .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+four young boys flexing for the camera .
+===========Original Hypothesis===========
+for boys are flexing
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a women 's volleyball team plays in a brown and green gymnasium .
+===========Original Hypothesis===========
+a sports team is in a gym .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a women 's volleyball team plays in a brown and green gymnasium .	a basketball team is in a gym.	0
+
+================Premise==================
+an old woman in a white hat and purple and blue cloths is sitting down by a wooden building .
+===========Original Hypothesis===========
+there is a building .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+people are shopping around christmas time for decorations .
+===========Original Hypothesis===========
+people are buying things .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of brown-haired teenagers doing laundry .
+===========Original Hypothesis===========
+group of teens are doing laundry .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+four women standing around a yellow table are looking at laptops .
+===========Original Hypothesis===========
+a group of women looking at laptops together .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a young woman dressed up semi-formally is reading book and drinking in the sun , seated on a bench .
+===========Original Hypothesis===========
+a young woman reads near the ocean .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a black and white dog jumps for a tennis ball .
+===========Original Hypothesis===========
+a dog is mid-air , jumping to catch a tennis ball .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+two performers , one man playing a guitar , and one woman with a mic raised to her mouth are sitting on chairs performing .
+===========Original Hypothesis===========
+a man and a woman are performing a song together .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men are fixing the side of an old brick building .
+===========Original Hypothesis===========
+people fixing a building
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+two men are fixing the side of an old brick building .	a crowd of people fixing a building	0
+
+================Premise==================
+passengers in a rusty yellow car driving down the street .
+===========Original Hypothesis===========
+a car drives on a street .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+passengers in a rusty yellow car driving down the street .	a car drives down a busy street.	0
+
+================Premise==================
+a big black dog jumps in the air to catch the tennis ball in his mouth .
+===========Original Hypothesis===========
+a dog is jumping .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a big black dog jumps in the air to catch the tennis ball in his mouth .	a dog is jumping off.	0
+a big black dog jumps in the air to catch the tennis ball in his mouth .	a dog is jumping for a trick.	0
+
+================Premise==================
+a man is wearing a blue and yellow racing uniform while holding a bottle
+===========Original Hypothesis===========
+this guy is wearing a racing uniform while holding a bottle
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+basketball referee watching a team player hang from the hoop .
+===========Original Hypothesis===========
+a referee watching a game .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+basketball referee watching a team player hang from the hoop .	a referee watching a tennis game.	0
+
+================Premise==================
+a blond headed child in yellow boots and yellow jacket vest playing in the gravel with his pail , shovel and trucks .
+===========Original Hypothesis===========
+a blonde girl is playing .
+===========Original Label===========
+entailment
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a grim looking man with sunglasses pilots a boat .
+===========Original Hypothesis===========
+there is a man on a boat .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a grim looking man with sunglasses pilots a boat .	there is a man and woman at a boat ride.	0
+a grim looking man with sunglasses pilots a boat .	there are a man on a boat taking a meal	0
+a grim looking man with sunglasses pilots a boat .	there is a man and a woman are on a boat.	0
+a grim looking man with sunglasses pilots a boat .	there is a man and a boat on shore.	0
+a grim looking man with sunglasses pilots a boat .	there is two men in boat.	0
+
+================Premise==================
+a woman drives a bike wearing a white blouse with her brown hair blowing in the wind .
+===========Original Hypothesis===========
+the lady is riding a bike .
+===========Original Label===========
+entailment
+===========Adversarial Hypothesis===========
+a woman drives a bike wearing a white blouse with her brown hair blowing in the wind .	the lady is riding a bike in the street.	0
+a woman drives a bike wearing a white blouse with her brown hair blowing in the wind .	an old lady is riding a bike.	0
+a woman drives a bike wearing a white blouse with her brown hair blowing in the wind .	the lady is riding a bike over an obstacle.	0
+a woman drives a bike wearing a white blouse with her brown hair blowing in the wind .	a little girl is riding a bike.	0
+
+================Premise==================
+this church choir sings to the masses as they sing joyous songs from the book at a church .
+===========Original Hypothesis===========
+the church has cracks in the ceiling .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment .
+===========Original Hypothesis===========
+the boy is playing on the swings after school .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment .	the boy is playing on the swings.	1
+a little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment .	the boy is playing on the swings.	1
+
+================Premise==================
+a woman working long hours .
+===========Original Hypothesis===========
+a woman is working in a factory .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a woman working long hours .	a man is working at a factory.	1
+
+================Premise==================
+a woman is painting a mural of a woman 's face .
+===========Original Hypothesis===========
+there is a woman painting for fun .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+men wearing blue uniforms sit on a bus .
+===========Original Hypothesis===========
+men sit on the bus going to work ,
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of adults stands in the bathroom looking down a small child in the bath .
+===========Original Hypothesis===========
+the childs mom is watching her son with her friends .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons .
+===========Original Hypothesis===========
+an angry military veteran watches as people protest the war .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in an alaska sweatshirt stands behind a counter .
+===========Original Hypothesis===========
+the man is from alaska .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men are standing in a boat .
+===========Original Hypothesis===========
+a few men are fishing on a boat .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+two men are standing in a boat .	several people are fishing on a boat.	1
+two men are standing in a boat .	a boy fishing on a boat.	1
+two men are standing in a boat .	a young boy is fishing on a boat.	1
+
+================Premise==================
+a young man in a heavy brown winter coat stands in front of a blue railing with his arms spread .
+===========Original Hypothesis===========
+the railing is in front of a frozen lake .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+children in yellow sports uniforms climbing a tower .
+===========Original Hypothesis===========
+the children are martial arts students .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+children in yellow sports uniforms climbing a tower .	the children are martial arts workers.	1
+
+================Premise==================
+girl in red jumping up
+===========Original Hypothesis===========
+the girl is jumping to catch the frisbee .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+girl in red jumping up	the girl is throwing at the frisbee.	1
+
+================Premise==================
+boys with their backs against an incoming wave .
+===========Original Hypothesis===========
+a group of people play in the ocean .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a woman wearing jeans is walking down the street .
+===========Original Hypothesis===========
+a woman is walking towards a bus stop .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men wearing dirty clothing are sitting on a sidewalk with their dog and begging for money using a cardboard sign .
+===========Original Hypothesis===========
+two research scientists conduct research in disguise .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a child is sticking her head out of the 0095 taxi cab and screaming .
+===========Original Hypothesis===========
+a child is screaming at the person that almost hit her taxi cab .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is painting a picture outside behind a crowd .
+===========Original Hypothesis===========
+a man is recreating the mona lisa outside in front of a crowd .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+blond woman overlooking seattle space needle scene .
+===========Original Hypothesis===========
+a tourist checking out seattle .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is shooting a gun outdoors , on what looks like a beautiful sunny day .
+===========Original Hypothesis===========
+a man is shooting a gun outside with his friends .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two strong men work to saw a log .
+===========Original Hypothesis===========
+two strong men work to saw the oak log
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a child plays with her father 's boots .
+===========Original Hypothesis===========
+a child players with her father 's boots while he is at work .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a black mother in an orange dress with her two little boys and husband at an outdoor market stand .
+===========Original Hypothesis===========
+a black family selling fresh produce in an outdoor market
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a crowd walks about a square at night with smoke or fog drifting over them .
+===========Original Hypothesis===========
+a group of people walk through tear gas .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a man in a suit with a purple striped tie talking to a lady wearing sunglasses .
+===========Original Hypothesis===========
+a man is talking to a lady about the weather .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+skateboarder sliding down a ramp
+===========Original Hypothesis===========
+a skateboarder is doing tricks for a competition .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+skateboarder sliding down a ramp	a skiier is doing tricks at a competition.	1
+
+================Premise==================
+man with beard doing skateboarding stunt
+===========Original Hypothesis===========
+a man with a goatee does a backflip on a skateboard .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three men are doing a musical set with wires and equipment all over the stage , and they are holding unique guitar like instruments .
+===========Original Hypothesis===========
+the three men were in a band together
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a tattooed man posing with a woman carrying a yellow handbag .
+===========Original Hypothesis===========
+the couple poses together .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a pale colored dog runs through a body of water .
+===========Original Hypothesis===========
+a dog runs through some water to catch a stick .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a pale colored dog runs through a body of water .	a dog runs through the yard towards a stick.	1
+
+================Premise==================
+a man is renovating a room .
+===========Original Hypothesis===========
+a man is using a hammer in a room .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a man is renovating a room .	a man is using a hammer in a work area.	1
+
+================Premise==================
+a lady wearing a straw hat and gold hoop earrings is pointing a finger .
+===========Original Hypothesis===========
+a woman points at the man she is talking about .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man wearing a red jacket and camouflage pants is leaning against a giant tree in the snow .
+===========Original Hypothesis===========
+a lumberjack poses with a tree he 's about to chop down
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two adult men in black t-shirt and loud tunics hold smoking torches in preparation for an act of entertainment or celebration in a forested environment .
+===========Original Hypothesis===========
+two brothers hold torches to celebrate .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+sports team members practice and relax on a basketball court .
+===========Original Hypothesis===========
+team members were practicing on a basketball court while large crowd watched .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+bicyclist ride the course near the ocean as the day comes to an end .
+===========Original Hypothesis===========
+he was happy .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of men are riding a moving walkway .
+===========Original Hypothesis===========
+a groups of men at the airport are riding a moving walkway .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+three young men are playing soccer in the beach wearing shorts and beach attire while some people watch
+===========Original Hypothesis===========
+three young men are playing soccer in the beach wearing daisy duke shorts
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+women in red are performing with nun-chucks .
+===========Original Hypothesis===========
+the women are auditioning for a kung fu movie .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a little boy with a shirt , shorts and socks on , standing on the beach .
+===========Original Hypothesis===========
+a boy is watching the ocean .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a little boy with a shirt , shorts and socks on , standing on the beach .	a boy is wearing the ocean.	1
+
+================Premise==================
+two young men climb a tree overlooking a rural setting , with one of them out far on a limb and clutching a white helmet .
+===========Original Hypothesis===========
+two brothers are climbing a tree to get down their frisbee .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a fat woman wearing faint blue top is blowing soap bubble .
+===========Original Hypothesis===========
+a fat woman is wearing pants .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a longeared dog running in the grass .
+===========Original Hypothesis===========
+a beagle runs in the grass .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a longeared dog running in the grass .	a beagle stands on the grass in a stream.	1
+
+================Premise==================
+three dogs run through the grass while wearing colored shirts .
+===========Original Hypothesis===========
+three small dogs run through the grass during the day
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+three dogs run through the grass while wearing colored shirts .	two small dogs run through the grass.	1
+
+================Premise==================
+a man is riding his dirt bike through the air in the desert .
+===========Original Hypothesis===========
+a man is showing off to his girlfriend while doing tricks on a dirt bike .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man is laid back in front of a tv .
+===========Original Hypothesis===========
+he is watching the news
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the man in the brown shirt is holding the hand of the long-haired child in front of a painting .
+===========Original Hypothesis===========
+a dad took his child to a museum to see a famous painting .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a girl in a pink sundress pushes a scooter past a row of orange construction barrels .
+===========Original Hypothesis===========
+the girl is wearing shoes
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men playing in a beautiful lake surrounded by mountains .
+===========Original Hypothesis===========
+a couple people enjoy the water near the mountains .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a child with blond-hair looking out of a screen door .
+===========Original Hypothesis===========
+a blond haired kid looks through his front door at the mailman .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two bearded men sit side by side .
+===========Original Hypothesis===========
+two men are sitting together at a park .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+two bearded men sit side by side .	three men are sitting at a park.	1
+two bearded men sit side by side .	two men are sitting together.	1
+
+================Premise==================
+a group of swimmers jump into a pool .
+===========Original Hypothesis===========
+a group of swimmers jump into a pool during a swim meet .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a group of swimmers jump into a pool .	a group of swimmers take a swim to shore.	1
+a group of swimmers jump into a pool .	a group of swimmers pose for a swim at the beach.	1
+
+================Premise==================
+three men dressed in suits and ties clasps their raised hands while standing in front of corporate logos .
+===========Original Hypothesis===========
+three men are celebrating a business achievement .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+man in puffy yellow jacket on skis on a mountain .
+===========Original Hypothesis===========
+the man in the yellow jacket is having fun .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a child is surrounded by a field of sunflowers .
+===========Original Hypothesis===========
+a happy kid and some flowers .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a child is surrounded by a field of sunflowers .	a kid and some flowers.	1
+
+================Premise==================
+a young man in an orange shirt , maneuvers a skateboard at the top of a ramp .
+===========Original Hypothesis===========
+a person rides a skateboard well .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a young man in an orange shirt , maneuvers a skateboard at the top of a ramp .	a person rides a skateboard.	1
+
+================Premise==================
+two sweet young girls on ice skates , hands up and holding on to each other get ready to begin their performance on the ice .
+===========Original Hypothesis===========
+the female ice skaters are competing in a tournament .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of people in jackets and hats are kneeling outside posing for a picture , each one with their dog by them on a leash .
+===========Original Hypothesis===========
+a group of people are part of a dog lover 's group .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man with glasses wearing a tuxedo and corsage stands near a man in a suit at a formal event .
+===========Original Hypothesis===========
+the two men are at a wedding .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+people standing at a beach with cameras .
+===========Original Hypothesis===========
+a group of people standing at a beach filled with cameras .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+man jumping up in the air and splitting his legs with his mouth open .
+===========Original Hypothesis===========
+a man is performing in front of a crowd .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a person dressed in a jacket and long pants walks down a snow-covered street in a small town .
+===========Original Hypothesis===========
+the pants are new .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a person dressed in a jacket and long pants walks down a snow-covered street in a small town .	the pants are being worn.	1
+
+================Premise==================
+a man stands on a dock near several boats , while 2 other men are on one of the boats .
+===========Original Hypothesis===========
+a man with brown hair is standing on a dock .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a group of people in a room , most with computers , some raising their hands .
+===========Original Hypothesis===========
+some people have questions .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a thin brunette woman lounges while reading on a rooftop overlooking a cityscape .
+===========Original Hypothesis===========
+a woman is enjoying the outside weather
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two ladies hiding behind their cotton candy , and smiling on the sidewalk .
+===========Original Hypothesis===========
+two friends holding cotton candy smile at each other .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+an older man wearing stars and stripes rides a bike .
+===========Original Hypothesis===========
+the man wearing stars and stripes on a bike is in a parade .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a woman in a brown jacket and jeans is kneeling on a brick road while taking a picture of another woman posing .
+===========Original Hypothesis===========
+the woman posing is a famous model .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a boy on a bicycle in midair
+===========Original Hypothesis===========
+a boy is falling off his bike .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+little girl posing for a picture .
+===========Original Hypothesis===========
+the child is getting her school pictures taken .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+little girl posing for a picture .	the child is getting her picture taken.	1
+
+================Premise==================
+a group of people are looking at photographs on a wall and speaking to each other .
+===========Original Hypothesis===========
+a group of friends are visiting an art exhibit .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the indian 's are performing a sacred dance .
+===========Original Hypothesis===========
+the indians hope there sacred dance will bring rain .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man smiles while he shaves the head of another man .
+===========Original Hypothesis===========
+a man is donating hair to a charity for cancer patients .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+while one man , in the white cap , is golfing , three other men are in the middle of a conversation .
+===========Original Hypothesis===========
+a man putts while his group talks to each other .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+some people are standing on a city sidewalk at night and waiting to get on a double-decker bus .
+===========Original Hypothesis===========
+friends wait to get on the bus at night .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man in a green shirt hovers above the ground in the laundry room .
+===========Original Hypothesis===========
+the man is cleaning his clothes .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a man in a green shirt hovers above the ground in the laundry room .	a man is cleaning his clothes.	1
+
+================Premise==================
+a man is giving a presentation .
+===========Original Hypothesis===========
+the man is a farmer
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+people walking along the beach on a sunny day .
+===========Original Hypothesis===========
+a married couple and their kids walk along the beach .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man talking into a microphone with a woman standing next to him .
+===========Original Hypothesis===========
+there are people giving a speech at the fair .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a little girl has her arms around a little boy standing on a wooden bridge in the woods .
+===========Original Hypothesis===========
+the little girl is consoling the boy .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man sits outdoors with some of his belongings .
+===========Original Hypothesis===========
+a man is homeless .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a man sits outdoors with some of his belongings .	a man is homeless in the hospital.	1
+a man sits outdoors with some of his belongings .	a woman is homeless.	1
+a man sits outdoors with some of his belongings .	a man is homeless in the garbage.	1
+
+================Premise==================
+a music concerto is happening on stage , with the lights on spot , while the audience listens in the dark .
+===========Original Hypothesis===========
+the concert is being held at night .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+a music concerto is happening on stage , with the lights on spot , while the audience listens in the dark .	the concert is taking place.	1
+a music concerto is happening on stage , with the lights on spot , while the audience listens in the dark .	the concert is being held	1
+
+================Premise==================
+a man standing on a street with a suitcase in front of him while another man bends down to look at what is displayed on top of it .
+===========Original Hypothesis===========
+one man shows the ransom money to the other .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+four cyclists are racing on an indoor racetrack all wearing the same red , white , and blue uniforms .
+===========Original Hypothesis===========
+the racetrack is long .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+men play hockey .
+===========Original Hypothesis===========
+men play fair
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+a little boy wearing a yellow , white and black striped shirt is whispering a secret to a little girl wearing a white long sleeved-shirt .
+===========Original Hypothesis===========
+the little boy is good friends with the girl .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a man with a blue , collared shirt sits in front of another man .
+===========Original Hypothesis===========
+a man is looking at his friend
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+four people enjoying an art exhibit .
+===========Original Hypothesis===========
+four people are trying to see what new painting to buy
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+at least eight people are sitting at a table in a building that overlooks the city .
+===========Original Hypothesis===========
+people sitting at a table getting ready for dinner
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two girls kissing a man with a black shirt and brown hair on the cheeks .
+===========Original Hypothesis===========
+two girls kiss there dad .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a child and a parent or older sibling going for a hike .
+===========Original Hypothesis===========
+it is the child 's first time hiking .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+artists install a new exhibit in a gallery .
+===========Original Hypothesis===========
+people put up new art .
+===========Original Label===========
+neutral
+This sentence pair was classified wrongly! So no adv.
+
+
+
+================Premise==================
+there are two people walking in the sand .
+===========Original Hypothesis===========
+the two people walking in the sand are on a date .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men roasting marshmallows in a fire pit .
+===========Original Hypothesis===========
+the two men are friends
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+two men stand on stairs with an assortment of chairs and a woven basket in the foreground .
+===========Original Hypothesis===========
+the men are brothers .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+children are sitting in chairs with a music stand in the background .
+===========Original Hypothesis===========
+children are having fun at tommy 's birthday party .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+an older man is speaking to a boy while both are sitting .
+===========Original Hypothesis===========
+grandpa is lecturing
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+a cyclist in a red and white uniform is biking across a garage full of people .
+===========Original Hypothesis===========
+a cyclist is in a competition .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the small child is sitting in a red playground swing .
+===========Original Hypothesis===========
+a father and child playing together .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+the young man is trying to balance on the train tracks .
+===========Original Hypothesis===========
+a young man is trying to balance on the train tracks while riding his bicycle .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
+
+================Premise==================
+an asian woman dressed in a colorful outfit laughing .
+===========Original Hypothesis===========
+the woman is laughing at a joke .
+===========Original Label===========
+neutral
+===========Adversarial Hypothesis===========
+
